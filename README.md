@@ -1,4 +1,4 @@
-<img src="yogesh.jpg" width="500px" height="500px">
+<img src="imyogeshgaur/yogesh.jpg" width="500px" height="500px">
 
 # Hello Everyone 👋
 
