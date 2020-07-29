@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="yogesh.jpg" width="500px" height="500px">
 
-<!--
-**imyogeshgaur/imyogeshgaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello Everyone 👋
 
-Here are some ideas to get you started:
+I am currently a 3rd year b.tech CSE student of <a href="https://www.krishnacollege.ac.in" target='_yogesh'>Krishna Engineering College Ghaziabad</a> .My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 9 months of experience in MERN stack and flutter developments, beside this I am trying to learn data science as a side hustle and my current focus is to do some contribution in the data science field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Social Accounts
+
+### LinkedIn 
+
+<a href='https://linkedin.com/in/imyogeshgaur' target="_yogesh"> LinkedIn Profile</a>
+
+### Instagram 
+
+<a href='https://instagram.com/imatechgeek' target="_yogesh"> Instagram Professional </a>
+<br> <br>
+<a href='https://instagram.com/imyogeshgaur' target="_yogesh"> Instagram Personal </a>
+
+### Facebook 
+
+<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>Facebook Page</a>
+<br> <br>
+<a href='https://www.facebook.com/profile.php?id=100022189704235' target="_yogesh"> Facebook Profile </a>
+             
+
