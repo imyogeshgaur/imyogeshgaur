@@ -14,17 +14,13 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 <a href="https://www.linkedin.com/in/imyogeshgaur/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.twitter.com/imyogeshgaur/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-### Instagram Page
 <a href='https://instagram.com/imatechgeek'>
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-### Facebook Page
 <a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
