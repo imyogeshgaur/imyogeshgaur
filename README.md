@@ -19,21 +19,21 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-### Instagram Personal
-
+### Instagram Professional
 <a href='https://instagram.com/imatechgeek'>
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br> <br>
+### Instagram (Personal)
 <a href="https://www.instagram.com/imyogeshgaur/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-### Facebook 
 
+### Facebook Page
 <a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br> <br>
+
+### Facebook Personal
 <a href='https://www.facebook.com/profile.php?id=100022189704235'>
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
