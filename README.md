@@ -36,17 +36,17 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 
 ## My Social Accounts
 
-<a href="https://www.linkedin.com/in/imyogeshgaur/">
+<a href="https://www.linkedin.com/in/imyogeshgaur/"  target="_yogesh">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/imyogeshgaur/">
+<a href="https://www.twitter.com/imyogeshgaur/"  target="_yogesh">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href='https://instagram.com/imatechgeek'>
+<a href='https://instagram.com/imatechgeek'  target="_yogesh">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>
+<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'  target="_yogesh">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
