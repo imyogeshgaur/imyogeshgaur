@@ -28,6 +28,8 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 ## Other Skills 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+
 ## My github website
 
 <a href = 'https://imyogeshgaur.github.io' target="_yogesh"> My Online Portfolio </a>
