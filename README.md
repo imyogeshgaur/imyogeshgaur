@@ -11,21 +11,36 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 
 ## My Social Accounts
 
-### LinkedIn 
+<a href="https://www.linkedin.com/in/imyogeshgaur/">
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<a href='https://linkedin.com/in/imyogeshgaur' target="_yogesh"> LinkedIn Profile</a>
+<a href="https://www.twitter.com/imyogeshgaur/">
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-### Instagram 
+### Instagram Personal
 
-<a href='https://instagram.com/imatechgeek' target="_yogesh"> Instagram Professional </a>
+<a href='https://instagram.com/imatechgeek'>
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br> <br>
-<a href='https://instagram.com/imyogeshgaur' target="_yogesh"> Instagram Personal </a>
-
+<a href="https://www.instagram.com/imyogeshgaur/">
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 ### Facebook 
 
-<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>Facebook Page</a>
+<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'>
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <br> <br>
-<a href='https://www.facebook.com/profile.php?id=100022189704235' target="_yogesh"> Facebook Profile </a>
+<a href='https://www.facebook.com/profile.php?id=100022189704235'>
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+
+
+
 
              
 
