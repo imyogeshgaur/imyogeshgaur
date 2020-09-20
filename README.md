@@ -32,7 +32,9 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 
 ## My github website
 
-<a href = 'https://imyogeshgaur.github.io' target="_yogesh"> My Online Portfolio </a>
+<a href = 'https://imyogeshgaur.github.io' target="_yogesh">
+    <img align="left" alt="Google Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+</a>
 
 ## My Social Accounts
 
@@ -40,14 +42,13 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/imyogeshgaur/"  target="_yogesh">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href='https://instagram.com/imatechgeek'  target="_yogesh">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <a href='https://www.facebook.com/Just-for-skill-development-114448226946175'  target="_yogesh">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 
