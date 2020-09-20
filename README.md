@@ -35,7 +35,7 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student at <a 
 <a href = 'https://imyogeshgaur.github.io' target="_yogesh">
     <img align="left" alt="Google Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
-
+<br>
 ## My Social Accounts
 
 <a href="https://www.linkedin.com/in/imyogeshgaur/"  target="_yogesh">
