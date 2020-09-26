@@ -41,19 +41,19 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student, and c
 ## Contact Me
 
 <a href = 'https://imyogeshgaur.github.io' target="_yogesh">
-    <img align="left" alt="Google Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+    <img align="left" alt="Google Icon" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 </a>
 <a href="https://www.linkedin.com/in/imyogeshgaur/"  target="_yogesh">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/imyogeshgaur/"  target="_yogesh">
-  <img align="left" alt="Twitter Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter Icon" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href='https://instagram.com/imatechgeek'  target="_yogesh">
-  <img align="left" alt="Instagram Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram Icon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
 </a>
 <a href='https://www.facebook.com/Just-for-skill-development-114448226946175'  target="_yogesh">
-  <img align="left" alt="Facebook Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook Icon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
 </a>
 
 
