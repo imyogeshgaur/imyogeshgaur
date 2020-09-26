@@ -15,9 +15,9 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student, and c
 
 <code><a href="https://www.w3schools.com/html/default.asp"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href="https://www.w3schools.com/css/default.asp"><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></a></code>
-<code><a href="https://sass-lang.com/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
+<code><a href="https://sass-lang.com/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
-<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
+<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
 <code><a href="https://flutter.dev/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a></code>
 
 ## Back End and Database
