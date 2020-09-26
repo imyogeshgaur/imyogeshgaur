@@ -26,10 +26,17 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student, and c
 <code><a href="https://docs.oracle.com/cd/E17952_01/index.html"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
 <code><a href="https://firebase.google.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
 
+## My Tools
+<code><a href="https://code.visualstudio.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
+<code><a href="https://jupyter.org/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a></code>
+<code><a href="https://docs.genymotion.com/desktop/3.0/"><img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png"></a></code>
+<code><a href="https://learning.postman.com/docs/getting-started/introduction/"><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
+
 ## Other Skills 
 <code><a href="https://git-scm.com/docs/gittutorial"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href="https://docs.docker.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
 <code><a href="https://www.arduino.cc/en/main/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></a></code>
+
 
 ## Contact Me
 
