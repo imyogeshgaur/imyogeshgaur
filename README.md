@@ -26,7 +26,7 @@ I am currently a 3rd year B.Tech Computer Science and Engineering student, and c
 <code><a href="https://docs.oracle.com/cd/E17952_01/index.html"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
 <code><a href="https://firebase.google.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
 
-## My Tools
+## Software I am doing/testing my work
 <code><a href="https://code.visualstudio.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
 <code><a href="https://jupyter.org/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a></code>
 <code><a href="https://docs.genymotion.com/desktop/3.0/"><img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png"></a></code>
