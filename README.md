@@ -34,9 +34,6 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <code><a href="https://git-scm.com/docs/gittutorial"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href="https://docs.docker.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
 
-[![Yogesh Gaur github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/imyogeshgaur/github-readme-stats)
-
-
 ## Contact Me
 
 <a href = 'https://imyogeshgaur.github.io' target="_yogesh">
@@ -63,7 +60,7 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 </a>
 
 
-
+[![Yogesh Gaur github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/imyogeshgaur/github-readme-stats)
 
 
              
