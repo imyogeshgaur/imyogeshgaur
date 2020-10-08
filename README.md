@@ -9,12 +9,13 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 
-[![Yogesh Gaur github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide=stars,issues&theme=radical](https://github.com/imyogeshgaur/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show_icons=true&theme=radical&hide=issues,stars)
+
 
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&bg_color=)](https://github.com/imyogeshgaur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&theme=dark)](https://github.com/imyogeshgaur/github-readme-stats)
 
 
 
