@@ -14,7 +14,7 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&layout=compact&show_icons=true&hide=jupyter-notebook)](https://github.com/imyogeshgaur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&layout=compact&show_icons=true&hide=jupyter_notebook)](https://github.com/imyogeshgaur/github-readme-stats)
 
 
 
