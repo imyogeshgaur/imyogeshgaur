@@ -13,33 +13,73 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 
 ## Languages Used
 
-<code><a href="https://www.cplusplus.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://www.python.org/doc/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://dart.dev/guides"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></a></code>
+<a href="https://www.cplusplus.com/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</a>
+<a href="https://www.python.org/doc/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+</a>
+<a href="https://dart.dev/guides">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+</a>
 
 ## Front End 
 
-<code><a href="https://www.w3schools.com/html/default.asp"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href="https://sass-lang.com/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
-<code><a href="https://reactjs.org/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
-<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
-<code><a href="https://flutter.dev/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a></code>
+<a href="https://www.w3schools.com/html/default.asp">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+</a>
+<a href="https://sass-lang.com/documentation">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+</a>
+<a href="https://reactjs.org/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</a>
+<a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+</a>
+<a href="https://flutter.dev/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+</a>
 
 ## Back End and Database
-<code><a href="https://nodejs.org/en/docs/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="https://docs.djangoproject.com/en/3.1/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a></code>
-<code><a href="https://docs.mongodb.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a></code>
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://firebase.google.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
+<a href="https://nodejs.org/en/docs/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</a>
+<a href="https://docs.djangoproject.com/en/3.1/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+</a>
+<a href="https://docs.mongodb.com/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</a>
+<a href="https://docs.oracle.com/cd/E17952_01/index.html">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</a>
+<a href="https://firebase.google.com/docs">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</a>
 
 ## Other Skills 
-<code><a href="https://code.visualstudio.com/docs"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<code><a href="https://jupyter.org/documentation"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></a></code>
-<code><a href="https://docs.genymotion.com/desktop/3.0/"><img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png"></a></code>
-<code><a href="https://learning.postman.com/docs/getting-started/introduction/"><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
-<code><a href="https://git-scm.com/docs/gittutorial"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href="https://docs.docker.com/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></code>
+<a href="https://code.visualstudio.com/docs">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</a>
+<a href="https://jupyter.org/documentation">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+</a>
+<a href="https://docs.genymotion.com/desktop/3.0/">
+    <img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png">
+</a>
+<a href="https://learning.postman.com/docs/getting-started/introduction/">
+    <img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
+</a>
+<a href="https://git-scm.com/docs/gittutorial">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</a>
+<a href="https://docs.docker.com/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+</a>
 
 ## Contact Me
 
