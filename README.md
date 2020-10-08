@@ -58,7 +58,9 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <a href="https://t.me/imyogeshgaur"  target="_yogesh">
   <img align="left" alt="Telegram Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
 </a>
-<br>
+
+<hr>
+
 [![Yogesh Gaur github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/imyogeshgaur/github-readme-stats)
 
 
