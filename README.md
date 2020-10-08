@@ -11,11 +11,11 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 
 [![Yogesh Gaur github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/imyogeshgaur/github-readme-stats)
 
-## Languages Worked On
-<code><a href="https://www.cplusplus.com/"><img height="35" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://www.python.org/doc/"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://dart.dev/guides"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></a></code>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&layout=compact&show_icons=true)](https://github.com/imyogeshgaur/github-readme-stats)
+
 
 
 ## Front End 
