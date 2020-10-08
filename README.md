@@ -9,7 +9,7 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 
-![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show_icons=true&theme=radical&hide=issues,stars&text_color=03ff93&icon_color=03b9ff)
+![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show_icons=true&theme=radical&hide=issues,stars&text_color=03ff93&icon_color=FFFF00&bg_color=00FFFF,C300FF)
 
 
 <br/>
