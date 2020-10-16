@@ -8,8 +8,7 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 <br/>
-
-![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show_icons=true&theme=radical&hide=issues,stars&text_color=C300FF&icon_color=3D33FF&bg_color=45,FCFF0B,33FF3E,42C8C1&custom_title=My%20Github%20Stats)
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyogeshgaur&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ## Languages Used
 
