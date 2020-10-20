@@ -36,11 +36,11 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <code><a href="https://reactjs.org/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a></code>
-<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-</a></code>
 <code><a href="https://flutter.dev/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+</a></code>
+<code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 </a></code>
 
 ## Back End and Database
@@ -53,11 +53,11 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <code><a href="https://docs.mongodb.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </a></code>
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</a></code>
 <code><a href="https://firebase.google.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</a></code>
+<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a></code>
 
 ## Other Skills 
