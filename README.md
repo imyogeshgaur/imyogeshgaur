@@ -118,6 +118,6 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br><br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&row=1&column=5" alt="rohitsinghkcodes" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&row=1&column=6" alt="rohitsinghkcodes" /></a> </p>
 <br>
 <br><br>
