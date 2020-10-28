@@ -111,9 +111,12 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF">
 <br>
+
+<p align="center"><img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" /></a> </p>
+<br>
+<br><br>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&row=1&column=5" alt="rohitsinghkcodes" /></a> </p>
 <br>
