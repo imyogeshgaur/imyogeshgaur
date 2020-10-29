@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hello Everyone 👋
+# Hello Everyone <img height="90" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
 My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Engineering student, and currently working on my startup <a href="https://aztecs-india.ueniweb.com/?utm_campaign=gmb" target="_yogesh"> Aztecs India </a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 9 months of experience in React and Django full stack and flutter developments, beside this I am trying to learn data science as a side hustle and my current focus is to do some contribution in the data science field.
 
@@ -111,9 +111,10 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <br/>
 <br/>
 
-<br>
 
-<p align="center"><img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" /></a> </p>
+## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
+<br>
+<img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" /></a> </p>
 <br>
 <br><br>
 
