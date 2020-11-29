@@ -21,9 +21,6 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <code><a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a></code>
-<code><a href="https://dart.dev/guides">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-</a></code>
 
 ## Front End 
 
@@ -35,9 +32,6 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 </a></code>
 <code><a href="https://reactjs.org/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</a></code>
-<code><a href="https://flutter.dev/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 </a></code>
 <code><a href="https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
