@@ -56,6 +56,10 @@ My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Eng
 <code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a></code>
+<code><a href="https://nginx.org/en/docs/">
+    <img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0761aoM_4XO2MLa-j2aVwPQxeGNUVAJfhQEFxzLEZNeLelPFSvhVshQE&s=10">
+</a></code>
+
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
 <code><a href="https://code.visualstudio.com/docs">
