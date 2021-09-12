@@ -2,7 +2,7 @@
 
 # Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
-My name is Yogesh Gaur,I am currently a 3rd year B.Tech Computer Science and Engineering student, and currently working on my startup <a href="https://aztecs-india.ueniweb.com/?utm_campaign=gmb" target="_yogesh"> Aztecs India </a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 9 months of experience in React and Django full stack and flutter developments, beside this I am trying to learn data science as a side hustle and my current focus is to do some contribution in the data science field.
+My name is Yogesh Gaur,I am currently a Final year B.Tech Computer Science and Engineering student, and currently working on my startup <a href="https://igokoavionics.myomni.in/" target="_yogesh"> Igoko Avionics Solution </a> which is a private limited company.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that will help you in growing your business. I have 9 months of experience in React and Django full stack and flutter developments, beside this I am trying to learn data science as a side hustle and my current focus is to do some contribution in the data science field.
 
 <br/>
 <br/>
