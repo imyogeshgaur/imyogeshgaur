@@ -44,8 +44,8 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technolog
 <code><a href="https://nodejs.org/en/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a></code>
-<code><a href="https://docs.djangoproject.com/en/3.1/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<code><a href="https://docs.nestjs.com/">
+    <img height="35" src="https://cdn.auth0.com/blog/nestjs/logo.png">
 </a></code>
 <code><a href="https://docs.mongodb.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
@@ -56,9 +56,10 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technolog
 <code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a></code>
-<code><a href="https://nginx.org/en/docs/">
-    <img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0761aoM_4XO2MLa-j2aVwPQxeGNUVAJfhQEFxzLEZNeLelPFSvhVshQE&s=10">
+<code><a href="https://docs.djangoproject.com/en/3.1/">
+    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 </a></code>
+
 
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
