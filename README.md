@@ -124,10 +124,10 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technolog
 <br><br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Stars,Followers,Issues,MultiLanguage" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Stars,Followers,Issues,MultiLanguage" /></a>
 <br>
 <br><br>
 
-<p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"/></a> </p>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"/></a>
 <br>
 <br><br>
