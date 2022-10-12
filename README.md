@@ -119,12 +119,12 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technolog
 
 ## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 <br>
-<img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" />
+<img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF&hide=stars,commits" />
 <br>
 <br><br>
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Stars,Followers,Issues,MultiLanguage" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Followers,Issues,MultiLanguage" /></a>
 <br>
 <br><br>
 
