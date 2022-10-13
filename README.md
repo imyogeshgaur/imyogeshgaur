@@ -33,7 +33,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technolog
 <code><a href="https://sass-lang.com/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </a></code>
-<code><a href="https://reactjs.org/">
+<code><a href="https://reactjs.org/docs/getting-started.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a></code>
 <code><a href="https://angular.io/docs">
