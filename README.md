@@ -2,7 +2,7 @@
 
 # Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
-My name is Yogesh Gaur,I am currently an Engineer Trainee at Motherson Technology Services, and currently working on my startup <a href="https://igokoavionics.myomni.in/" target="_yogesh"> Igoko Avionics Solution </a> which is a private limited company.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that help in growth of businesses.
+My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com">Motherson Technology Services</a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that help in growth of businesses.
 
 <br/>
 <br/>
