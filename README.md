@@ -1,13 +1,11 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img  aligh="right" alt="GIF" src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780" />
 
 # Hello Everyone <img height="60" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
 My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>
-<img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780">
-
+<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Languages Used
-
 <code><a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a></code>
