@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hello Everyone <img height="60" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
+# Hello Everyone <img height="60" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
 My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>.My job is to develop Robust,resposnsive and interactive Web and Mobile Apps that help in growth of businesses.
 
