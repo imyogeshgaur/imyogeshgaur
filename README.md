@@ -6,7 +6,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 
 <br/>
 <br/>
- <img height="60" src="https://drive.google.com/file/d/1rhE8zfpJIa1bQEx51zGXXX8QsW2s0mbk/view?usp=sharing">
+ <img height="60" src="https://ik.imagekit.io/levister/messagif_BYMrI5Gp0.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666916857058">
 
 
 ## Languages Used
