@@ -120,7 +120,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <br><br>
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Followers,Issues,MultiLanguage" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=Followers,Issues,MultiLanguage" alt="ad" /></a>
 <br>
 <br><br>
 
