@@ -1,9 +1,9 @@
-<img  aligh="right" alt="GIF" src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # Hello Everyone <img height="60" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
 My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>
-<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780">
 
 ## Languages Used
 <code><a href="https://www.cplusplus.com/">
