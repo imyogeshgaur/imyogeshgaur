@@ -69,7 +69,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 </a>
 &nbsp;
 <a href="https://docs.mongodb.com/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+    <img height="35" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
 </a>
 &nbsp;
 <a href="https://firebase.google.com/docs">
@@ -77,11 +77,11 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 </a>
 &nbsp;
 <a href="https://docs.oracle.com/cd/E17952_01/index.html">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    <img height="35" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png">
 </a>
 &nbsp;
 <a href="https://docs.djangoproject.com/en/3.1/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+    <img height="35" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg">
 </a>
 
 
