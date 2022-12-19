@@ -10,6 +10,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a>
 &nbsp;
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </a>
@@ -18,7 +19,6 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <a href="https://www.typescriptlang.org/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
-
 
 <a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -31,25 +31,22 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <a href="https://www.w3schools.com/html/default.asp">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
-
-
+&nbsp;
 
 <a href="https://sass-lang.com/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </a>
-
-
+&nbsp;
 
 <a href="https://reactjs.org/docs/getting-started.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a>
-
-
+&nbsp;
 
 <a href="https://angular.io/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 </a>
-
+&nbsp;
 
 <a href="https://getbootstrap.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
@@ -66,18 +63,23 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <a href="https://nodejs.org/en/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a>
+&nbsp;
 <a href="https://docs.nestjs.com/">
     <img height="35" src="https://cdn.auth0.com/blog/nestjs/logo.png">
 </a>
+&nbsp;
 <a href="https://docs.mongodb.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </a>
+&nbsp;
 <a href="https://firebase.google.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 </a>
+&nbsp;
 <a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </a>
+&nbsp;
 <a href="https://docs.djangoproject.com/en/3.1/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 </a>
