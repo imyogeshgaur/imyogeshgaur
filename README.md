@@ -6,78 +6,113 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <!-- <img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780"> -->
 
 ## Languages Used
-<code><a href="https://www.cplusplus.com/">
+<a href="https://www.cplusplus.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</a></code>
-<code><a href="https://www.typescriptlang.org/docs/">
+</a>
+&nbsp;
+
+<a href="https://www.typescriptlang.org/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-</a></code>
-<code><a href="https://www.python.org/doc/">
+</a>
+
+
+<a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</a></code>
+</a>
+
+
 
 ## Front End 
 
-<code><a href="https://www.w3schools.com/html/default.asp">
+<a href="https://www.w3schools.com/html/default.asp">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</a></code>
-<code><a href="https://sass-lang.com/documentation">
+</a>
+
+
+
+<a href="https://sass-lang.com/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-</a></code>
-<code><a href="https://reactjs.org/docs/getting-started.html">
+</a>
+
+
+
+<a href="https://reactjs.org/docs/getting-started.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</a></code>
-<code><a href="https://angular.io/docs">
+</a>
+
+
+
+<a href="https://angular.io/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-</a></code>
-<code><a href="https://getbootstrap.com/docs">
+</a>
+
+
+<a href="https://getbootstrap.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-</a></code>
+</a>
+
+
+
+<br/>
+<br/>
+
+
 
 ## Back End and Database
-<code><a href="https://nodejs.org/en/docs/">
+<a href="https://nodejs.org/en/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</a></code>
-<code><a href="https://docs.nestjs.com/">
+</a>
+<a href="https://docs.nestjs.com/">
     <img height="35" src="https://cdn.auth0.com/blog/nestjs/logo.png">
-</a></code>
-<code><a href="https://docs.mongodb.com/">
+</a>
+<a href="https://docs.mongodb.com/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</a></code>
-<code><a href="https://firebase.google.com/docs">
+</a>
+<a href="https://firebase.google.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-</a></code>
-<code><a href="https://docs.oracle.com/cd/E17952_01/index.html">
+</a>
+<a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</a></code>
-<code><a href="https://docs.djangoproject.com/en/3.1/">
+</a>
+<a href="https://docs.djangoproject.com/en/3.1/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</a></code>
+</a>
+
+
+<br/>
+<br/>
+
 
 
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
-<code><a href="https://code.visualstudio.com/docs">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</a></code>
-<code><a href="https://jupyter.org/documentation">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-</a></code>
-<code><a href="https://docs.genymotion.com/desktop/3.0/">
-    <img height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png">
-</a></code>
-<code><a href="https://learning.postman.com/docs/getting-started/introduction/">
-    <img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
-</a></code>
-<code><a href="https://git-scm.com/docs/gittutorial">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</a></code>
-<code><a href="https://docs.docker.com/">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-</a></code>
+<a href="https://code.visualstudio.com/docs">
+    <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</a>
+<a href="https://jupyter.org/documentation">
+    <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+</a>
+<a href="https://docs.genymotion.com/desktop/3.0/">
+    <img  align="left"  height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png">
+</a>
+<a href="https://learning.postman.com/docs/getting-started/introduction/">
+    <img align="left"  height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
+</a>
+<a href="https://git-scm.com/docs/gittutorial">
+    <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</a>
+<a href="https://docs.docker.com/">
+    <img  align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+</a>
+
+<br/>
+<br/>
+
+
 
 ## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
 
