@@ -149,13 +149,13 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 
 
 ## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
-<br>
+<!-- <br>
 <img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF&hide=commits,issues" />
 <br>
-<br><br>
+<br><br> -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br><br>
