@@ -131,7 +131,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 ' target="_yogesh">
   <img align="left" alt="Medium Icon" height="35" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
-<a href='https://instagram.com/imatechgeek'  target="_yogesh">
+<a href='https://instagram.com/imyogeshagur'  target="_yogesh">
   <img align="left" alt="Instagram Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
 </a>
 <a href='https://www.facebook.com/Just-for-skill-development-114448226946175'  target="_yogesh">
