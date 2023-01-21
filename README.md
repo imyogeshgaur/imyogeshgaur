@@ -126,15 +126,11 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <a href="https://www.twitter.com/imyogeshgaur/"  target="_yogesh">
   <img align="left" alt="Twitter Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
-<a href='https://medium.com/@_imyogeshgaur
-' target="_yogesh">
-  <img align="left" alt="Medium Icon" height="35" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
-</a>
 <a href='https://instagram.com/imyogeshgaur'  target="_yogesh">
-  <img align="left" alt="Instagram Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />
+  <img align="left" alt="Instagram Icon" height="35" src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" />
 </a>
-<a href='https://www.facebook.com/Just-for-skill-development-114448226946175'  target="_yogesh">
-  <img align="left" alt="Facebook Icon" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
+<a href='https://www.facebook.com/profile.php?id=100022189704235'  target="_yogesh">
+  <img align="left" alt="Facebook Icon" height="35" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://t.me/imyogeshgaur"  target="_yogesh">
   <img align="left" alt="Telegram Icon" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
