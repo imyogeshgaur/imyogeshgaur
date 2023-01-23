@@ -10,54 +10,43 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a>
 &nbsp;
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </a>
 &nbsp;
-
 <a href="https://www.typescriptlang.org/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
-
+&nbsp;
 <a href="https://www.python.org/doc/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
-
+<br/>
+<br/>
 
 
 ## Front End 
-
 <a href="https://www.w3schools.com/html/default.asp">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
 &nbsp;
-
 <a href="https://sass-lang.com/documentation">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </a>
 &nbsp;
-
 <a href="https://reactjs.org/docs/getting-started.html">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a>
 &nbsp;
-
 <a href="https://angular.io/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 </a>
 &nbsp;
-
 <a href="https://getbootstrap.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 </a>
-
-
-
 <br/>
 <br/>
-
-
 
 ## Back End and Database
 <a href="https://nodejs.org/en/docs/">
@@ -72,22 +61,31 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg">
 </a>
 &nbsp;
+<a href="https://www.prisma.io/docs/concepts">
+    <img height="35" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
+</a>
+&nbsp;
 <a href="https://firebase.google.com/docs">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</a>
+<br/>
+<br/>
+
+## Databases Worked Upon
+<a href="https://docs.mongodb.com/">
+    <img height="35" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
 </a>
 &nbsp;
 <a href="https://docs.oracle.com/cd/E17952_01/index.html">
     <img height="35" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png">
 </a>
 &nbsp;
-<a href="https://docs.mongodb.com/">
-    <img height="35" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+<a href="https://www.postgresql.org/docs/current/">
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png">
 </a>
-
+&nbsp;
 <br/>
 <br/>
-
-
 
 ## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
