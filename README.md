@@ -48,7 +48,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <br/>
 <br/>
 
-## Back End and Database
+## Back End
 <a href="https://nodejs.org/en/docs/">
     <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a>
