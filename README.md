@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
-# Hello Everyone <img height="60" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
+# Hello Everyone <img height="35" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
 My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>
 <!-- <img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780"> -->
@@ -87,7 +87,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <br/>
 <br/>
 
-## Other Skills &nbsp;&nbsp; <img height="23" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
+## Other Skills &nbsp;&nbsp; <img height="35" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 
 <a href="https://code.visualstudio.com/docs">
     <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
@@ -113,7 +113,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 
 
 
-## Contact Me &nbsp;&nbsp;<img height="30" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
+## Contact Me &nbsp;&nbsp;<img height="35" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
 
 <a href = 'https://imyogeshgaur.com' target="_yogesh">
     <img align="left" alt="Google Icon"height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
@@ -141,7 +141,7 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <br/>
 
 
-## Github Stats <img height="45px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
+## Github Stats <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 <!-- <br>
 <img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF&hide=commits,issues" />
 <br>
