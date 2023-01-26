@@ -141,18 +141,15 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <br/>
 
 
-## Github Stats <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
-<!-- <br>
-<img  height='130px' src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF&hide=commits,issues" />
-<br>
-<br><br> -->
+## Github Stats  <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues,commits&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" />
 <br><br>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark"/></a>
-<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Issues)
+
 <br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
+
