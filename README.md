@@ -200,4 +200,5 @@ My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
 
 # Enjoy the Game 
-![snake gif](https://github.com/imyogeshgaur/imyogeshgaur/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/imyogeshgaur/imyogeshgaur/blob/output/github-contribution-grid-snake.svg)
+
