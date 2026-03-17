@@ -189,7 +189,7 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://mo
 
 ## Github Stats  <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&theme=gruvbox)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Issues)
