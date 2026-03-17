@@ -189,8 +189,7 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://mo
 
 ## Github Stats  <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imyogeshgaur&hide_title=true&show_icons=true&hide=issues,commits&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=radical&text_color=C300FF&icon_color=3D33FF" />
-<br><br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Issues)
@@ -198,7 +197,4 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://mo
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
-
-# Enjoy the Game 
-![snake animation](https://github.com/imyogeshgaur/imyogeshgaur/blob/output/github-contribution-grid-snake2.svg)
 
