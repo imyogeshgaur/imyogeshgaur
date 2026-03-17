@@ -2,7 +2,7 @@
 
 # Hello Everyone <img height="35" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
-My name is Yogesh Gaur,I am currently an Engineer Trainee at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>
+My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://mothersontechnology.com" target="_yogesh">Motherson Technology Services</a>
 <!-- <img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780"> -->
 
 ## Languages Used
