@@ -1,11 +1,19 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-
 # Hello Everyone <img height="35" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
-My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://www.carrier.com/commercial/en/in/" target="_yogesh">Carrier Technologies India Limited</a>
+My name is Yogesh Gaur,I am currently a Software Engineer</a>
+
+# 👨‍💻 About Me
+<ul>
+    <li>💼 Software Engineer passionate about building practical software solutions. </li>
+   <li>🤖 Exploring Artificial Intelligence, Large Language Models and Retrieval-Augmented Generation (RAG).</li>
+   <li>🧠 Interested in backend engineering, system design and scalable applications.</li>
+   <li>🔍 Enjoy solving problems and learning new technologies.</li>
+   <li>🚀 Currently building AI-powered applications</li>
+</ul>
+
 <!-- <img src="https://ik.imagekit.io/levister/messagif__1__wZdOd6zM4.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1666917373780"> -->
 
-## Languages Used
+## Languages Known
 <table>
    <tr>
         <td>
@@ -26,7 +34,7 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
    </tr>
 </table>
 
-## Front End
+## Front End Tech Stack
 <table>
     <tr>
         <td>
@@ -57,32 +65,27 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
      </tr>
 </table>
 
-## Back End
+## Back End Tech Stack
 <table>
     <tr>
-        <td>
-            <a href="https://nodejs.org/en/docs/">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-            </a>
-        </td>
         <td>
             <a href="https://docs.nestjs.com/">
                 <img height="35" src="https://cdn.auth0.com/blog/nestjs/logo.png">
             </a>
         </td>
-        <td>
-            <a href="https://graphql.org/learn/">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-            </a>
-        </td>
+       <td>
+          <a href="https://grpc.io/">
+             <img heigth="35"src="https://grpc.io/img/logos/grpc-icon-color.png"/>
+          </a>
+       </td>
         <td>
             <a href="https://www.prisma.io/docs/concepts">
                 <img height="35" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
             </a>
         </td>
         <td>
-            <a href="https://firebase.google.com/docs">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+            <a href="https://graphql.org/learn/">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
             </a>
         </td>
       </tr>
@@ -184,12 +187,6 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
 
 ## Github Stats  <img height="35px" src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imyogeshgaur&theme=tokyonight)
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=imyogeshgaur&theme=monokai&title=MultiLanguage,Follower,Issues,Issues)
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyogeshgaur&theme=dark">
 
