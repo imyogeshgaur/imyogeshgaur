@@ -1,6 +1,6 @@
 # Hello Everyone <img height="35" src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif">
 
-My name is Yogesh Gaur,I am currently a Software Engineer</a>
+ My name is Yogesh Gaur, I am an Software Engineer from India 🇮🇳
 
 # 👨‍💻 About Me
 <ul>
