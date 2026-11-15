@@ -34,19 +34,9 @@ My name is Yogesh Gaur,I am currently a Software Engineer</a>
    </tr>
 </table>
 
-## Front End Tech Stack
+## Front End
 <table>
     <tr>
-        <td>
-            <a href="https://www.w3schools.com/html/default.asp">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://sass-lang.com/documentation">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-            </a>
-        </td>
         <td>
             <a href="https://reactjs.org/docs/getting-started.html">
                 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -58,14 +48,19 @@ My name is Yogesh Gaur,I am currently a Software Engineer</a>
             </a>
         </td>
         <td>
-            <a href="https://getbootstrap.com/docs">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+            <a href="https://developer.android.com/develop">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+            </a>
+        </td>
+          <td>
+            <a href="https://docs.swift.org/latest/documentation/">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>
             </a>
         </td>
      </tr>
 </table>
 
-## Back End Tech Stack
+## Back End
 <table>
     <tr>
         <td>
@@ -75,17 +70,17 @@ My name is Yogesh Gaur,I am currently a Software Engineer</a>
         </td>
        <td>
           <a href="https://grpc.io/">
-             <img heigth="35"src="https://grpc.io/img/logos/grpc-icon-color.png"/>
+             <img heigth="35" width="35" src="https://grpc.io/img/logos/grpc-icon-color.png"/>
           </a>
        </td>
         <td>
-            <a href="https://www.prisma.io/docs/concepts">
-                <img height="35" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
+            <a href="https://kafka.apache.org/44/getting-started/introduction/">
+                <img height="35" width="35" src="https://kafka.apache.org/logos/kafka-logo-tall.png"/>
             </a>
         </td>
         <td>
-            <a href="https://graphql.org/learn/">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
+            <a href="https://redis.io/docs/latest/">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
             </a>
         </td>
       </tr>
