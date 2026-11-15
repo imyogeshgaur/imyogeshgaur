@@ -9,11 +9,6 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
 <table>
    <tr>
         <td>
-            <a href="https://www.cplusplus.com/">
-                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-            </a>
-        </td>
-        <td>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
             </a>
@@ -77,7 +72,7 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
         </td>
         <td>
             <a href="https://graphql.org/learn/">
-                <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
             </a>
         </td>
         <td>
@@ -98,17 +93,17 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
     <tr>
         <td>
             <a href="https://docs.mongodb.com/">
-                <img height="35" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
             </a>
         </td>
         <td>
             <a href="https://docs.oracle.com/cd/E17952_01/index.html">
-                <img height="35" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
             </a>
         </td>
         <td>
             <a href="https://www.postgresql.org/docs/current/">
-                <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png">
+                <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
             </a>
         </td>
       </tr>
@@ -117,37 +112,37 @@ My name is Yogesh Gaur,I am currently a Software Engineer at <a href="https://ww
 ## Other Skills &nbsp;&nbsp; <img height="35" src="https://media.giphy.com/media/ccRrcecpw9PaM/giphy.gif">
 <table>
     <tr>
-        <td>
-            <a href="https://code.visualstudio.com/docs">
-                <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+         <td>
+            <a href="https://docs.aws.amazon.com/">
+                <img align="left" alt="AWS" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
             </a>
         </td>
         <td>
-            <a href="https://jupyter.org/documentation">
-                <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://docs.genymotion.com/desktop/3.0/">
-                <img  align="left"  height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/genymotion-icon.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://learning.postman.com/docs/getting-started/introduction/">
-                <img align="left"  height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">       
-            </a>
-        </td>
-        <td>
-            <a href="https://git-scm.com/docs/gittutorial">
-                <img align="left"  height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+            <a href="https://kubernetes.io/docs/home/">
+                <img align="left" alt="Kubernetes" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
             </a>
         </td>
         <td>
             <a href="https://docs.docker.com/">
-                <img  align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+                <img align="left" alt="Docker" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
             </a>
         </td>
-     </tr>
+          <td>
+            <a href="https://code.visualstudio.com/docs">
+                <img align="left" alt="Visual Studio Code" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+            </a>
+        </td>
+           <td>
+            <a href="https://learning.postman.com/docs/getting-started/introduction/">
+                <img align="left" alt="Postman" height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://git-scm.com/docs/gittutorial">
+                <img align="left" alt="Git" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+            </a>
+        </td>
+    </tr>
 </table>
 
 ## Contact Me &nbsp;&nbsp;<img height="35" src="https://media.giphy.com/media/PkXF1fEvGdGOa8PCWU/giphy.gif">
